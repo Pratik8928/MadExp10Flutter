@@ -1,0 +1,28 @@
+{
+    "name":"Car Display",
+    "short_name":"CD",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE902",
+    "theme_color":"#FFE902",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"image/bmw72x72.png",
+            "type":"image/png",
+            "sizes":"any"
+        },
+        {
+            "src":"image/draw144x144.png",
+            "type":"image/png",
+            "sizes":"144x144",
+            "purpose":"any"
+        },
+        {
+            "src":"image/parrot-image.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}  
